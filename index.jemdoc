@@ -2,32 +2,30 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
 
 ~~~
-{}{img_left}{lwh.JPG}{150}{150}{Weihao Li}
-Weihao Li, Ph.D. \n
-[https://www.stat.nus.edu.sg/ Department of Statistics and Applied Probability]\n
+{}{img_left}{lwh.JPG}{150}{150}{Xueqing Liu}
+Xueqing Liu, Ph.D. \n
+[https://www.duke-nus.edu.sg/ Duke-NUS Medical School]\n
  National University of Singapore \n
 
 {{
-<a href="https://www.linkedin.com/in/weihao-li-72b13a159/"><img src="button/linkedin-logo.png" style="width:30px;height:30px;"></a>
-<a href="https://github.com/liweihaoPaul"><img src="button/github-logo.png" style="width:30px;height:30px;"></a>
-<a href="https://rpubs.com/selectiveinferencepaul"><img src="button/rpub.jpg" style="width:30px;height:30px;"></a>
-<a href="https://www.youtube.com/channel/UCssBgRKBC9KGBJr0sQZVkRQ"><img src="button/youtube.png" style="width:30px;height:30px;"></a>
-<a href="https://math.stackexchange.com/questions/4092235/bound-on-operator-norm-of-goe-using-gaussian-comparison-inequality"><img src="button/stackmath.png" style="width:30px;height:30px;"></a>
+<a href="https://www.linkedin.com/in/xueqing-liu-4802121a0/"><img src="button/linkedin-logo.png" style="width:30px;height:30px;"></a>
+<a href="https://github.com/xueqingliuu"><img src="button/github-logo.png" style="width:30px;height:30px;"></a>
 }}
 ~~~
 
 == Biography
-I am currently a Ph.D. student at Department of Statistics and Applied Probability, National University of Singapore (NUS), under the supervision of [https://blog.nus.edu.sg/stahd/ Prof. Dongming Huang].
-Previously, I received my Master degree in the Department of Statistics from [https://stat.uchicago.edu/ The  University of Chicago] in 2021 advised by [https://www.stat.uchicago.edu/~wbwu/ Prof. Wei-Biao Wu]. I received my B.S. in the Department of Statistics from [https://www.sta.cuhk.edu.hk/default.aspx The Chinese University of Hong Kong (CUHK)] in 2019. 
+I am currently a Ph.D. student at Duke-NUS Medical School, National University of Singapore (NUS), under the supervision of [https://blog.nus.edu.sg/bibhas/ Prof. Bibhas Chakraborty].
+Previously, I received my Master degree from [https://english.pku.edu.cn/ Peking University], under the supervision of [https://sph.pku.edu.cn/info/1416/4185.htm Prof. Xiao-hua Zhou]
+and Bachelor degree from [https://english.pku.edu.cn/ Peking University].
 
 == Contact
-Email: lwh88 \[at\] 126.com\n
+Email: xueqing_liu \[at\] u.duke.nus.edu\n
 
 == Research Interest
-- High dimension probability
-- Random matrix theory with its application
-- Decision theory
-- Nonparametric statistics
+- Mobile health
+- Micro-randomized trials
+- Reinforcement learning
+- Biostatistics
 
 
 
