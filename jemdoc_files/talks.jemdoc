@@ -1,0 +1,27 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: menu{MENU}{talks.html}, nofooter  
+
+
+== 2024
+- Online Uniform Sampling: Randomized Learning-Augmented Approximation Algorithms
+with Application to Digital Health. \n
+INFORMS, Seattle. Oct 20th, 2024. \n
+*Invited Talk*.
+- Estimating causal excursion effects in mobile health with zero-inflated count outcomes. \n
+JSM, Portland. Aug 5th, 2024. \n
+*Contributed Talk*.
+- Design and Analysis of Micro-Randomised Trials. \n
+University of Leeds Online Seminar. May 15th. \n
+*Invited Talk*.
+
+== 2023
+- Thompson sampling for count outcomes. \n
+Duke-NUS Health Data Science Symposium, Singapore. Nov 3rd, 2023. \n
+*Invited Talk*.
+- Dealing with zero-inflated count data in mobile health. \n
+The 6th International Conference on Econometrics and Statistics (EcoSta 2023), Tokyo. Aug 1st. \n
+*Invited Talk*.
+
+
+
+

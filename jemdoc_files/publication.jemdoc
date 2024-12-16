@@ -1,0 +1,27 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: menu{MENU}{publication.html}, nofooter  
+
+
+== Preprints and under review
+- Improving Treatment Responses through Limited Nudges: A Data-Driven Learning and Optimization Approach. \n
+Esmaeil Keyvanshokooh, Kyra Gan, Yongyi Guo, *Xueqing Liu*, Anna L Trella, Susan Murphy.  /Under Review/, 2024+. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4903888/ SSRN]
+- Online Uniform Sampling: Randomized Learning-Augmented Approximation Algorithms with Application to Digital Health. \n
+*Xueqing Liu*, Kyra Gan, Esmaeil Keyvanshokooh, Susan Murphy. /Under Review/, 2024+. [https://arxiv.org/abs/2402.01995/ arXiv]
+- Thompson Sampling for Zero-Inflated Count Outcomes with an Application to the Drink Less Mobile Health Study. \n
+*Xueqing Liu*, Nina Deliu, Tanujit Chakraborty, Lauren Bell, Bibhas Chakraborty. /Under Revision/, 2024+. [https://arxiv.org/abs/2311.14359/ arXiv] 
+
+== Published papers
+- Bridging Innovation and Equity: Advancing Public Health Through Just-in-Time Adaptive Interventions. \n
+Nur Hani Zainal, *Xueqing Liu*, Utek Leong, Xiaoxi Yan, Bibhas Chakraborty. /Annual Review of Public Health/, 2024. [https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-103909/ Journal]
+- Incorporating Nonparametric Methods for Estimating Causal Excursion Effects in Mobile Health with Zero-Inflated Count Outcomes. \n
+*Xueqing Liu*, Tianchen Qian, Lauren Bell, Bibhas Chakraborty. /Biometrics/, 2024. [https://academic.oup.com/biometrics/article/80/2/ujae054/7688270/ Journal] 
+- Contextual Bandits with Budgeted Information Reveal. \n
+Kyra Gan, Esmaeil Keyvanshokooh, *Xueqing Liu*, Susan Murphy. /AISTATS2024/, 2024. [https://arxiv.org/abs/2305.18511/ arXiv] 
+- Microrandomized Trials: Developing Just-in-Time Adaptive Interventions for Better Public Health. \n
+*Xueqing Liu*, Nina Deliu, Bibhas Chakraborty. /American Journal of Public Health/, 2023. [https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2022.307150/ Journal]
+- A Distribution-Free Smoothed Combination Method to Improve Discrimination Accuracy in Multi-Category Classification. \n
+Raju Maiti, Jialiang Li, Priyam Das, *Xueqing Liu*, Lei Feng, Derek J Hausenloy, Bibhas Chakraborty. /Statistical Methods in Medical Research/, 2022. [https://journals.sagepub.com/doi/abs/10.1177/09622802221137742/ Journal]
+- A Novel Regression Method for the Analysis of Multireader Multicase-Free-Response Receiver Operating Characteristics Studies. \n
+*Xueqing Liu*, Jiarui Sun, Xiao-Hua Zhou. /Statistics in Medicine/, 2022. [https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9400/ Journal]
+
+
