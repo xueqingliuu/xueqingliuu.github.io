@@ -1,5 +1,4 @@
-# jemdoc: addcss{css/jemdoc.css}
-# jemdoc: menu{MENU}{publication.html}, nofooter  
+# jemdoc: menu{MENU}{publication.html} 
 
 
 == Preprints and under review

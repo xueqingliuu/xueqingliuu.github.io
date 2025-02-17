@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+# jemdoc: menu{MENU}{index.html} 
 
 ~~~
 {}{img_left}{./images/lxq.jpg}{300}{300}{Xueqing Liu}
@@ -14,7 +14,7 @@ Level 6, 8 College Rd, Singapore \n
 ~~~
 
 == About me
-I am a final-year Ph.D. student in Biostatistics at Duke-NUS Medical School, supervised of Prof. [https://blog.nus.edu.sg/bibhas/ Prof. Bibhas Chakraborty], with an expected graduation in July 2025. Previously, I earned my Master's degree in Biostatistics and a dual Bachelor's degree in Medicine and Applied Mathematics from Peking University.
+I am a final-year Ph.D. student in Biostatistics at Duke-NUS Medical School, supervised of Prof. [https://blog.nus.edu.sg/bibhas/ Bibhas Chakraborty], with an expected graduation in July 2025. Previously, I earned my Master's degree in Biostatistics and a dual Bachelor's degree in Medicine and Applied Mathematics from Peking University.
 
 == Research Interest
 I develop statistical and machine learning methodologies for impactful applications in digital health. My primary research interests include:

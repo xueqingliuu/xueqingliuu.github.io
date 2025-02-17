@@ -1,5 +1,4 @@
-# jemdoc: addcss{css/jemdoc.css}
-# jemdoc: menu{MENU}{talks.html}, nofooter  
+# jemdoc: menu{MENU}{talks.html}
 
 
 == 2024
