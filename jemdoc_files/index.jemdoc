@@ -1,33 +1,32 @@
 # jemdoc: menu{MENU}{index.html} 
 
 ~~~
-{}{img_left}{./images/lxq.jpg}{300}{300}{Xueqing Liu}
-Xueqing Liu, PhD student \n
-[https://www.duke-nus.edu.sg/ Duke-NUS Medical School]\n
- National University of Singapore \n
-Level 6, 8 College Rd, Singapore \n
+{}{img_left}{./images/lxq2.jpg}{200}{200}{Xueqing Liu}
+Xueqing Liu, Postdoctoral fellow \n
+SEC 2.339, 150 Western Avenue, Boston, MA 02134\n
 
 {{
 <a href="https://www.linkedin.com/in/xueqing-liu-4802121a0/"><img src="./images/linkedin-logo.png" style="width:30px;height:30px;"></a>
+<a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=OCWNZyoAAAAJ&inst=3212728378801010220"><img src="./images/gs.png" style="width:30px;height:30px;"></a>
 <a href="https://github.com/xueqingliuu"><img src="./images/github-logo.png" style="width:30px;height:30px;"></a>
 }}
 ~~~
 
 == About me
-I am a final-year Ph.D. student in Biostatistics at Duke-NUS Medical School, supervised of Prof. [https://blog.nus.edu.sg/bibhas/ Bibhas Chakraborty], with an expected graduation in July 2025. Previously, I earned my Master's degree in Biostatistics and a dual Bachelor's degree in Medicine and Applied Mathematics from Peking University.
+I am a postdoctoral fellow in the Department of Statistics at Harvard University, working with Professor [http://people.seas.harvard.edu/~samurphy/ Susan Murphy]. I received my Ph.D. in Biostatistics and Health Data Science from the Duke-National University of Singapore Medical School, where I was advised by Professor [https://blog.nus.edu.sg/bibhas/ Bibhas Chakraborty]. Earlier, I earned my Master's degree in Biostatistics and Bachelor's degree in Medicine and Applied Mathematics from Peking University.
 
 == Research Interest
-I develop statistical and machine learning methodologies for impactful applications in digital health. My primary research interests include:
+I develop statistical and machine learning methods for impactful applications in digital health. My primary research interests include:
 
-    - Sequential decision making for adaptive interventions
     - Contextual bandits and Reinforcement learning
     - Longitudinal data analysis and Causal Inference
-    - Online and Adaptive experiment design
+    - Design and analysis of experiments
+    - Just-in-time adaptive intervention
 
 
 
 == Contact
-Email: xueqing_liu \[at\] u.duke.nus.edu\n
+Email: xueqing_liu \[at\] fas.harvard.edu\n
 
 
 
