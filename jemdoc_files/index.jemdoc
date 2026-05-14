@@ -1,9 +1,9 @@
 # jemdoc: menu{MENU}{index.html} 
 
 ~~~
-{}{img_left}{./images/lxq2.jpg}{200}{200}{Xueqing Liu}
+{}{img_left}{./images/profile.png}{200}{200}{Xueqing Liu}
 Xueqing Liu, Postdoctoral fellow \n
-SEC 2.339, 150 Western Avenue, Boston, MA 02134\n
+SEC 2.337, 150 Western Avenue, Boston, MA 02134\n
 
 {{
 <a href="https://www.linkedin.com/in/xueqing-liu-4802121a0/"><img src="./images/linkedin-logo.png" style="width:30px;height:30px;"></a>
@@ -13,7 +13,7 @@ SEC 2.339, 150 Western Avenue, Boston, MA 02134\n
 ~~~
 
 == About me
-I am a postdoctoral fellow in the Department of Statistics at Harvard University, working with Professor [http://people.seas.harvard.edu/~samurphy/ Susan Murphy]. I received my Ph.D. in Biostatistics and Health Data Science from the Duke-National University of Singapore Medical School, where I was advised by Professor [https://blog.nus.edu.sg/bibhas/ Bibhas Chakraborty]. Earlier, I earned my Master's degree in Biostatistics and Bachelor's degree in Medicine and Applied Mathematics from Peking University.
+I am a postdoctoral fellow in the Department of Statistics at Harvard University, working with Professor [http://people.seas.harvard.edu/~samurphy/ Susan Murphy]. I received my Ph.D. in Biostatistics and Health Data Science from the Duke-NUS Medical School, where I was advised by Professor [https://blog.nus.edu.sg/bibhas/ Bibhas Chakraborty]. Earlier, I earned my Master's degree and Bachelor's degree from Peking University.
 
 == Research Interest
 I develop statistical and machine learning methods for impactful applications in digital health. My primary research interests include:
